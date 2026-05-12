@@ -81,4 +81,4 @@ It controls file selection inside qBittorrent using priority rules.
 
 ## License
 
-Private / experimental project
+Omni community / experimental project
