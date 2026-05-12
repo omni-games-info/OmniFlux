@@ -70,15 +70,6 @@ Filter applied successfully
 OmniFlux does not download torrents directly.  
 It controls file selection inside qBittorrent using priority rules.
 
-## Future improvements
-
-- Per-game selection interface
-- Searchable ROM/game list
-- Save and load filter profiles
-- Real-time qBittorrent sync
-- CHD and BIOS-aware filtering
-- Multi-torrent batch processing
-
 ## License
 
 Omni community / experimental project
