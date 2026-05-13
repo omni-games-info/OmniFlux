@@ -1,4 +1,4 @@
-# OmniFlux
+# OmniFluxMAME
 
 Universal torrent-to-MAME filtering engine for qBittorrent automation.
 
